@@ -25,7 +25,7 @@
 ## 合成結果
 本設計經 Synopsys Design Compiler 合成後，主要數據如下：
 
-* **Cell Area**: 25920
+* **Cell Area**: 25920 um²
 * **Clock cycle time**: 10 ns
 * **Timing Status**: WNS: 0.00 (無時序違規)
 
